@@ -50,7 +50,7 @@ export default function Auth() {
         type = 'submit'
         className="submit-button"
         >
-          login
+          Login/Signup
         </button>
       </form>
     </div>
